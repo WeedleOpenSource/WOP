@@ -1,0 +1,82 @@
+systemd-+-avahi-daemon---avahi-daemon
+        |-bluealsa-+-{bactl}
+        |          |-{gdbus}
+        |          `-{gmain}
+        |-bluetoothd
+        |-cron
+        |-dbus-daemon
+        |-dhcpcd
+        |-hciattach
+        |-lightdm-+-Xorg-+-{InputThread}
+        |         |      |-{llvmpipe-0}
+        |         |      |-{llvmpipe-1}
+        |         |      |-{llvmpipe-2}
+        |         |      `-{llvmpipe-3}
+        |         |-lightdm-+-lxsession-+-lxpanel-+-lxterminal-+-160*[bash]
+        |         |         |           |         |            |-bash---python
+        |         |         |           |         |            |-bash---tail
+        |         |         |           |         |            |-bash---pstree
+        |         |         |           |         |            |-gnome-pty-helpe
+        |         |         |           |         |            |-{gdbus}
+        |         |         |           |         |            `-{gmain}
+        |         |         |           |         |-sh
+        |         |         |           |         |-{gdbus}
+        |         |         |           |         |-{gmain}
+        |         |         |           |         `-{menu-cache-io}
+        |         |         |           |-lxpolkit-+-{gdbus}
+        |         |         |           |          `-{gmain}
+        |         |         |           |-openbox
+        |         |         |           |-pcmanfm-+-leafpad-+-{gdbus}
+        |         |         |           |         |         `-{gmain}
+        |         |         |           |         |-{gdbus}
+        |         |         |           |         `-{gmain}
+        |         |         |           |-ssh-agent
+        |         |         |           |-{gdbus}
+        |         |         |           `-{gmain}
+        |         |         |-{gdbus}
+        |         |         `-{gmain}
+        |         |-{gdbus}
+        |         `-{gmain}
+        |-login---bash
+        |-menu-cached-+-{gdbus}
+        |             `-{gmain}
+        |-polkitd-+-{gdbus}
+        |         `-{gmain}
+        |-rsyslogd-+-{in:imklog}
+        |          |-{in:imuxsock}
+        |          `-{rs:main Q:Reg}
+        |-ssh-agent
+        |-sshd
+        |-svscanboot-+-readproctitle
+        |            `-svscan---supervise---supervise
+        |-systemd-+-(sd-pam)
+        |         |-dbus-daemon
+        |         |-gvfs-afc-volume-+-{gdbus}
+        |         |                 |-{gmain}
+        |         |                 `-{gvfs-afc-volume}
+        |         |-gvfs-goa-volume-+-{gdbus}
+        |         |                 `-{gmain}
+        |         |-gvfs-gphoto2-vo-+-{gdbus}
+        |         |                 `-{gmain}
+        |         |-gvfs-mtp-volume-+-{gdbus}
+        |         |                 `-{gmain}
+        |         |-gvfs-udisks2-vo-+-{gdbus}
+        |         |                 `-{gmain}
+        |         |-gvfsd-+-{gdbus}
+        |         |       `-{gmain}
+        |         |-gvfsd-fuse-+-{gdbus}
+        |         |            |-{gmain}
+        |         |            |-{gvfs-fuse-sub}
+        |         |            `-2*[{gvfsd-fuse}]
+        |         `-gvfsd-trash-+-{gdbus}
+        |                       `-{gmain}
+        |-systemd-journal
+        |-systemd-logind
+        |-systemd-timesyn---{sd-resolve}
+        |-systemd-udevd
+        |-thd
+        |-udisksd-+-{cleanup}
+        |         |-{gdbus}
+        |         |-{gmain}
+        |         `-{probing-thread}
+        `-wpa_supplicant

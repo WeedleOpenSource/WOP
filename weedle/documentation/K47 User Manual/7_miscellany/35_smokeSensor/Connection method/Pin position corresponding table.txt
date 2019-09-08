@@ -1,0 +1,19 @@
+ADC0382 Pin position:
+	CS  ===== Raspberry Pi pin 11
+	CLK ===== Raspberry Pi pin 12
+	DI  ===== Raspberry Pi pin 13
+	DO  ===== Raspberry Pi pin 13
+	CH0 ===== Smoke Sensor pin A0
+	VCC ===== Raspberry Pi +5V
+	GND ===== Raspberry Pi GND
+
+Smoke Sensor pin position:
+	D0  ====  Raspberry Pi pin 15
+	A0  ====  ADC0382 Pin CH0
+	"+" ====  Raspberry Pi +5V
+	GND ====  Raspberry Pi GND
+	
+LED pin position:
+	"S" ==== Raspberry Pi pin 16 (through resistor)
+	"-" ==== Raspberry Pi GND
+	

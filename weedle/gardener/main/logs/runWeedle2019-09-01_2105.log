@@ -1,0 +1,4183 @@
+#######################################
+#### IN WEEDLE ADJUSTMENT CLIMATE  ####
+#######################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+##############################################
+#### STARTING WEEDLE ADJUSTMENT CLIMATE  ####
+##############################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WTemperature:30
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumidityAir:80
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumiditySoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WCO2:900
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WLuminosity:255
+####################################
+######   WEEDLE CLIMATE HIGH  ######
+####################################
+## WTemperature = 30
+## WHumidityAir = 80
+## WHumiditySoil = 1
+## WCO2 = 900
+## WLuminosity = 255
+####################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wtemperature:20
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumidity:50
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumiditysoil:0
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wco2:380
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wluminosity:0
+####################################
+######    WEEDLE CLIMATE LOW  ######
+####################################
+##  Wtemperature = 20
+##  Whumidityair = 50
+##  Whumiditysoil = 0
+##  Wco2 = 380
+##  Wluminosity = 0
+####################################
+== IN READ AIR TEMPERATURE IN THE BOX == 
+== IN READ AIR HUMIDITY IN THE BOX == 
+== IN READ SOIL HUMIDITY 40 IN THE BOX == 
+== IN READ SOIL HUMIDITY 55 IN THE BOX == 
+== IN READ SOIL HUMIDITY 70 IN THE BOX == 
+== IN READ SOIL HUMIDITY 85 IN THE BOX == 
+== IN READ LUMINOSITY IN THE BOX == 
+## luminosity = 255
+== IN READ AIR TEMPERATURE IN THE BOX == 
+## temperature:27.9 C  humidity : 44 %
+\/\/\/\/\/\/\/\/
+#### ALERT FAILED AIR TEMPERATURE ONCE
+\/\/\/\/\/\/\/\/
+== IN READ AIR HUMIDITY IN THE BOX == 
+##  temperature:27.9 C  humidity : 44 %
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED AIR HUMIDITY ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 TWICE - SET WEEDLE CLIMATE DEFAULT  - NO RUN CO2
+\/\/\/\/\/\/\/\/
+####################################
+####     IN THE BOX CLIMATE     ###
+####################################
+## airTemperature = 27
+## airHumdity = 44
+## soilHumdity40 = 0
+## soilHumdity55 = 0
+## soilHumdity70 = 0
+## soilHumdity85 = 0
+## soilHumdity = 0
+## luminosity = 255
+## co2 = 380
+####################################
+#######  ADJUSTMENT ACTIONS  #######
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT TEMPERATURE STARTING  ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+###################################################
+####  WEEDLE ADJUSTMENT TEMPERATURE COMPLETED ####
+###################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT AIR HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+///////////////////////////////
+=====    AIR TOO DRY   =======
+///////////////////////////////
+=====    INCREASE OF  +++ 6
+////////////////////////////
+------------------------
+= IN INCREASE AIR HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAWater:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAAir:100
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Rea##### IN WHITE LIGHT ON ####
+White Light ON...
+#######################################
+#### IN WEEDLE ADJUSTMENT CLIMATE  ####
+#######################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+##############################################
+#### STARTING WEEDLE ADJUSTMENT CLIMATE  ####
+##############################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WTemperature:30
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumidityAir:80
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumiditySoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WCO2:900
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WLuminosity:255
+####################################
+######   WEEDLE CLIMATE HIGH  ######
+####################################
+## WTemperature = 30
+## WHumidityAir = 80
+## WHumiditySoil = 1
+## WCO2 = 900
+## WLuminosity = 255
+####################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wtemperature:20
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumidity:50
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumiditysoil:0
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wco2:380
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wluminosity:0
+####################################
+######    WEEDLE CLIMATE LOW  ######
+####################################
+##  Wtemperature = 20
+##  Whumidityair = 50
+##  Whumiditysoil = 0
+##  Wco2 = 380
+##  Wluminosity = 0
+####################################
+== IN READ AIR TEMPERATURE IN THE BOX == 
+== IN READ AIR HUMIDITY IN THE BOX == 
+##  temperature:27.8 C  humidity : 43 %
+== IN READ SOIL HUMIDITY 40 IN THE BOX == 
+== IN READ SOIL HUMIDITY 55 IN THE BOX == 
+== IN READ SOIL HUMIDITY 70 IN THE BOX == 
+== IN READ SOIL HUMIDITY 85 IN THE BOX == 
+== IN READ LUMINOSITY IN THE BOX == 
+## luminosity = 255
+== IN READ AIR TEMPERATURE IN THE BOX == 
+\/\/\/\/\/\/\/\/
+#### ALERT FAILED AIR TEMPERATURE ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+#### ALERT FAILED AIR TEMPERATURE TWICE - SET WEEDLE CLIMATE DEFAULT - NO RUN TEMPERATURE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 TWICE - SET WEEDLE CLIMATE DEFAULT  - NO RUN CO2
+\/\/\/\/\/\/\/\/
+####################################
+####     IN THE BOX CLIMATE     ###
+####################################
+## airTemperature = 20
+## airHumdity = 43
+## soilHumdity40 = 0
+## soilHumdity55 = 0
+## soilHumdity70 = 0
+## soilHumdity85 = 0
+## soilHumdity = 0
+## luminosity = 255
+## co2 = 380
+####################################
+#######  ADJUSTMENT ACTIONS  #######
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT TEMPERATURE STARTING  ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+###################################################
+####  WEEDLE ADJUSTMENT TEMPERATURE COMPLETED ####
+###################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT AIR HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+///////////////////////////////
+=====    AIR TOO DRY   =======
+///////////////////////////////
+=====    INCREASE OF  +++ 7
+////////////////////////////
+------------------------
+= IN INCREASE AIR HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAWater:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAAir:100
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HASun:0
+========##### IN RED LIGHT ON ####
+Red Light ON...
+d Weedle HASun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 0
+==  air = 100
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 0
+## Turn ON WATER for: 0
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 600
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/    BRAIN    /\/\/\/\/\/\/\/\/\/
+#### ALERT TIME ADJUSTMENT TO HIGH TO USE via AIR 
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+## Turn ON AIR for: 500
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+#################################################
+####  WEEDLE ADJUSTMENT AIR HUMIDITY COMPLETED #####
+#################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT LUMINOSITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT LUMINOSITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT CO2 STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT CO2 COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+################################################
+####  WEEDLE ADJUSTMENT CLIMATE COMPLETED #####
+################################################
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+#######################################
+#### IN WEEDLE ADJUSTMENT CLIMATE  ####
+#######################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+##############################################
+#### STARTING WEEDLE ADJUSTMENT CLIMATE  ####
+##############################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WTemperature:30
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumidityAir:80
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumiditySoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WCO2:900
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WLuminosity:255
+####################################
+######   WEEDLE CLIMATE HIGH  ######
+####################################
+## WTemperature = 30
+## WHumidityAir = 80
+## WHumiditySoil = 1
+## WCO2 = 900
+## WLuminosity = 255
+####################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wtemperature:20
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumidity:50
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumiditysoil:0
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wco2:380
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wluminosity:0
+####################################
+######    WEEDLE CLIMATE LOW  ######
+####################################
+##  Wtemperature = 20
+##  Whumidityair = 50
+##  Whumiditysoil = 0
+##  Wco2 = 380
+##  Wluminosity = 0
+####################################
+== IN READ AIR TEMPERATURE IN THE BOX == 
+## temperature:27.8 C  humidity : 43 %
+== IN READ AIR HUMIDITY IN THE BOX == 
+##  temperature:28.0 C  humidity : 44 %
+== IN READ SOIL HUMIDITY 40 IN THE BOX == 
+== IN READ SOIL HUMIDITY 55 IN THE BOX == 
+== IN READ SOIL HUMIDITY 70 IN THE BOX == 
+== IN READ SOIL HUMIDITY 85 IN THE BOX == 
+== IN READ LUMINOSITY IN THE BOX == 
+## luminosity = 255
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 TWICE - SET WEEDLE CLIMATE DEFAULT  - NO RUN CO2
+\/\/\/\/\/\/\/\/
+####################################
+####     IN THE BOX CLIMATE     ###
+####################################
+## airTemperature = 27
+## airHumdity = 44
+## soilHumdity40 = 0
+## soilHumdity55 = 0
+## soilHumdity70 = 0
+## soilHumdity85 = 0
+## soilHumdity = 0
+## luminosity = 255
+## co2 = 380
+####################################
+#######  ADJUSTMENT ACTIONS  #######
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT TEMPERATURE STARTING  ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+###################################################
+####  WEEDLE ADJUSTMENT TEMPERATURE COMPLETED ####
+###################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT AIR HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+///////////////////////////////
+=====    AIR TOO DRY   =======
+///////////////////////////////
+=====    INCREASE OF  +++ 6
+////////////////////////////
+------------------------
+= IN INCREASE AIR HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAWater:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAAir:100
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HASun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 0
+==  air = 100
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 0
+## Turn ON WATER ====================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 0
+==  air = 100
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 0
+## Turn ON WATER for: 0
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 700
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/    BRAIN    /\/\/\/\/\/\/\/\/\/
+#### ALERT TIME ADJUSTMENT TO HIGH TO USE via AIR 
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+## Turn ON AIR for: 500
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+#################################################
+####  WEEDLE ADJUSTMENT AIR HUMIDITY COMPLETED #####
+#################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT LUMINOSITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT LUMINOSITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT CO2 STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT CO2 COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+################################################
+####  WEEDLE ADJUSTMENT CLIMATE COMPLETED #####
+################################################
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+#######################################
+#### IN WEEDLE ADJUSTMENT CLIMATE  ####
+#######################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+##############################################
+#### STARTING WEEDLE ADJUSTMENT CLIMATE  ####
+##############################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WTemperature:30
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumidityAir:80
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumiditySoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WCO2:900
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WLuminosity:255
+####################################
+######   WEEDLE CLIMATE HIGH  ######
+####################################
+## WTemperature = 30
+## WHumidityAir = 80
+## WHumiditySoil = 1
+## WCO2 = 900
+## WLuminosity = 255
+####################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wtemperature:20
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumidity:50
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumiditysoil:0
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wco2:380
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wluminosity:0
+####################################
+######    WEEDLE CLIMATE LOW  ######
+####################################
+##  Wtemperature = 20
+##  Whumidityair = 50
+##  Whumiditysoil = 0
+##  Wco2 = 380
+##  Wluminosity = 0
+####################################
+== IN READ AIR TEMPERATURE IN THE BOX == 
+== IN READ AIR HUMIDITY IN THE BOX == 
+##  temperature:28.2 C  humidity : 44 %
+== IN READ SOIL HUMIDITY 40 IN THE BOX == 
+== IN READ SOIL HUMIDITY 55 IN THE BOX == 
+== IN READ SOIL HUMIDITY 70 IN THE BOX == 
+== IN READ SOIL HUMIDITY 85 IN THE BOX == 
+== IN READ LUMINOSITY IN THE BOX == 
+## luminosity = 255
+== IN READ AIR TEMPERATURE IN THE BOX == 
+\/\/\/\/\/\/\/\/
+#### ALERT FAILED AIR TEMPERATURE ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+#### ALERT FAILED AIR TEMPERATURE TWICE - SET WEEDLE CLIMATE DEFAULT - NO RUN TEMPERATURE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 TWICE - SET WEEDLE CLIMATE DEFAULT  - NO RUN CO2
+\/\/\/\/\/\/\/\/
+####################################
+####     IN THE BOX CLIMATE     ###
+####################################
+## airTemperature = 20
+## airHumdity = 44
+## soilHumdity40 = 0
+## soilHumdity55 = 0
+## soilHumdity70 = 0
+## soilHumdity85 = 0
+## soilHumdity = 0
+## luminosity = 255
+## co2 = 380
+####################################
+#######  ADJUSTMENT ACTIONS  #######
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT TEMPERATURE STARTING  ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+###################################################
+####  WEEDLE ADJUSTMENT TEMPERATURE COMPLETED ####
+###################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT AIR HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+///////////////////////////////
+=====    AIR TOO DRY   =======
+///////////////////////////////
+=====    INCREASE OF  +++ 6
+////////////////////////////
+------------------------
+= IN INCREASE AIR HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAWater:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAAir:100
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HASun:0
+========for: 0
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 600
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/    BRAIN    /\/\/\/\/\/\/\/\/\/
+#### ALERT TIME ADJUSTMENT TO HIGH TO USE via AIR 
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+## Turn ON AIR for: 500
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+#################################################
+####  WEEDLE ADJUSTMENT AIR HUMIDITY COMPLETED #####
+#################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT LUMINOSITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT LUMINOSITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT CO2 STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT CO2 COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+################################################
+####  WEEDLE ADJUSTMENT CLIMATE COMPLETED #####
+################################################
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+#######################################
+#### IN WEEDLE ADJUSTMENT CLIMATE  ####
+#######################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+##############################################
+#### STARTING WEEDLE ADJUSTMENT CLIMATE  ####
+##############################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WTemperature:30
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumidityAir:80
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumiditySoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WCO2:900
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WLuminosity:255
+####################################
+######   WEEDLE CLIMATE HIGH  ######
+####################################
+## WTemperature = 30
+## WHumidityAir = 80
+## WHumiditySoil = 1
+## WCO2 = 900
+## WLuminosity = 255
+####################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wtemperature:20
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumidity:50
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumiditysoil:0
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wco2:380
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wluminosity:0
+####################################
+######    WEEDLE CLIMATE LOW  ######
+####################################
+##  Wtemperature = 20
+##  Whumidityair = 50
+##  Whumiditysoil = 0
+##  Wco2 = 380
+##  Wluminosity = 0
+####################################
+== IN READ AIR TEMPERATURE IN THE BOX == 
+## temperature:28.3 C  humidity : 44 %
+== IN READ AIR HUMIDITY IN THE BOX == 
+== IN READ SOIL HUMIDITY 40 IN THE BOX == 
+== IN READ SOIL HUMIDITY 55 IN THE BOX == 
+== IN READ SOIL HUMIDITY 70 IN THE BOX == 
+== IN READ SOIL HUMIDITY 85 IN THE BOX == 
+== IN READ LUMINOSITY IN THE BOX == 
+## luminosity = 255
+== IN READ AIR HUMIDITY IN THE BOX == 
+##  temperature:28.1 C  humidity : 45 %
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED AIR HUMIDITY ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 TWICE - SET WEEDLE CLIMATE DEFAULT  - NO RUN CO2
+\/\/\/\/\/\/\/\/
+####################################
+####     IN THE BOX CLIMATE     ###
+####################################
+## airTemperature = 28
+## airHumdity = 45
+## soilHumdity40 = 0
+## soilHumdity55 = 0
+## soilHumdity70 = 0
+## soilHumdity85 = 0
+## soilHumdity = 0
+## luminosity = 255
+## co2 = 380
+####################################
+#######  ADJUSTMENT ACTIONS  #######
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT TEMPERATURE STARTING  ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+###################################################
+####  WEEDLE ADJUSTMENT TEMPERATURE COMPLETED ####
+###################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT AIR HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+///////////////////////////////
+=====    AIR TOO DRY   =======
+///////////////////////////////
+=====    INCREASE OF  +++ 5
+////////////////////////////
+------------------------
+= IN INCREASE AIR HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAWater:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAAir:100
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HASun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water =====================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 0
+==  air = 100
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 0
+## Turn ON WATER for: 0
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 600
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/    BRAIN    /\/\/\/\/\/\/\/\/\/
+#### ALERT TIME ADJUSTMENT TO HIGH TO USE via AIR 
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+## Turn ON AIR for: 500
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+#################################################
+####  WEEDLE ADJUSTMENT AIR HUMIDITY COMPLETED #####
+#################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT LUMINOSITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT LUMINOSITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT CO2 STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT CO2 COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+################################################
+####  WEEDLE ADJUSTMENT CLIMATE COMPLETED #####
+################################################
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+##### IN RED LIGHT OFF ####
+Red Light OFF...
+Weedle OFF...
+##  Read Weedle blueState:OFF
+##  Read Weedle redState:OFF
+##  Read Weedle whiteState:OFF
+Initializing Weedle Day...
+There was an issue processing line: 
+
+Initialization complete.
+current time is: 21:05
+There are 2 commands to trigger
+Execute python /home/pi/weedle/gardener/main/weedleAdjustClimate.py
+Execute /home/pi/weedle/gardener/main/logs/sendmail.sh
+Main thread sleeping for 22 seconds
+current time is: 21:06
+There are 1 commands to trigger
+Execute python /home/pi/weedle/gardener/main/elements/sun/whitelightON.py
+Main thread sleeping for 11 seconds
+current time is: 21:07
+There are no command to trigger for current time: 21:07
+Main thread sleeping for 60 seconds
+current time is: 21:08
+There are no command to trigger for current time: 21:08
+Main thread sleeping for 60 seconds
+current time is: 21:09
+There are no command to trigger for current time: 21:09
+Main thread sleeping for 60 seconds
+current time is: 21:10
+There are 2 commands to trigger
+Execute python /home/pi/weedle/gardener/main/weedleAdjustClimate.py
+Execute /home/pi/weedle/gardener/main/logs/sendmail.sh
+Main thread sleeping for 60 seconds
+current time is: 21:11
+There are no command to trigger for current time: 21:11
+Main thread sleeping for 60 seconds
+current time is: 21:12
+There are no command to trigger for current time: 21:12
+Main thread sleeping for 60 seconds
+current time is: 21:13
+There are 1 commands to trigger
+Execute /home/pi/weedle/gardener/main/plantdiagnostic/takePlantWhitePicture.sh
+Main thread sleeping for 60 seconds
+current time is: 21:14
+There are no command to trigger for current time: 21:14
+Main thread sleeping for 60 seconds
+current time is: 21:15
+There are 3 commands to trigger
+Execute python /home/pi/weedle/gardener/main/elements/sun/redlightON.py
+Execute python /home/pi/weedle/gardener/main/weedleAdjustClimate.py
+Execute /home/pi/weedle/gardener/main/logs/sendmail.sh
+Main thread sleeping for 60 seconds
+current time is: 21:16
+There are no command to trigger for current time: 21:16
+Main thread sleeping for 60 seconds
+current time is: 21:17
+There are no command to trigger for current time: 21:17
+Main thread sleeping for 60 seconds
+current time is: 21:18
+There are no command to trigger for current time: 21:18
+Main thread sleeping for 59 seconds
+current time is: 21:19
+There are no command to trigger for current time: 21:19
+Main thread sleeping for 60 seconds
+current time is: 21:20
+There are 2 commands to trigger
+Execute python /home/pi/weedle/gardener/main/weedleAdjustClimate.py
+Execute /home/pi/weedle/gardener/main/logs/sendmail.sh
+Main thread sleeping for 60 seconds
+current time is: 21:21
+There are no command to trigger for current time: 21:21
+Main thread sleeping for 60 seconds
+current time is: 21:22
+There are no command to trigger for current time: 21:22
+Main thread sleeping for 60 seconds
+current time is: 21:23
+There are no command to trigger for current time: 21:23
+Main thread sleeping for 60 seconds
+current time is: 21:24
+There are no command to trigger for current time: 21:24
+Main thread sleeping for 60 seconds
+current time is: 21:25
+There are 2 commands to trigger
+Execute python /home/pi/weedle/gardener/main/weedleAdjustClimate.py
+Execute /home/pi/weedle/gardener/main/logs/sendmail.sh
+Main thread sleeping for 60 seconds
+current time is: 21:26
+There are no command to trigger for current time: 21:26
+Main thread sleeping for 60 seconds
+current time is: 21:27
+There are no command to trigger for current time: 21:27
+Main thread sleeping for 60 seconds
+current time is: 21:28
+There are 1 commands to trigger
+Execute /home/pi/weedle/gardener/main/plantdiagnostic/takePlantRedPicture.sh
+Main thread sleeping for 60 seconds
+current time is: 21:29
+There are 1 commands to trigger
+Execute python /home/pi/weedle/gardener/main/elements/sun/redlightOFF.py
+Main thread sleeping for 60 seconds
+current time is: 21:30
+There are 3 commands to trigger
+Execute python /home/pi/weedle/gardener/main/elements/sun/bluelightON.py
+Execute python /home/pi/weedle/gardener/main/weedleAdjustClimate.py
+Execute /home/pi/weedle/gardener/main/logs/sendmail.sh
+Ma##### IN BLUE LIGHT ON ####
+Blue Light ON...
+#######################################
+#### IN WEEDLE ADJUSTMENT CLIMATE  ####
+#######################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+##############################################
+#### STARTING WEEDLE ADJUSTMENT CLIMATE  ####
+##############################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WTemperature:30
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumidityAir:80
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumiditySoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WCO2:900
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WLuminosity:255
+####################################
+######   WEEDLE CLIMATE HIGH  ######
+####################################
+## WTemperature = 30
+## WHumidityAir = 80
+## WHumiditySoil = 1
+## WCO2 = 900
+## WLuminosity = 255
+####################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wtemperature:20
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumidity:50
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumiditysoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wco2:380
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wluminosity:0
+####################################
+######    WEEDLE CLIMATE LOW  ######
+####################################
+##  Wtemperature = 20
+##  Whumidityair = 50
+##  Whumiditysoil = 1
+##  Wco2 = 380
+##  Wluminosity = 0
+####################################
+== IN READ AIR TEMPERATURE IN THE BOX == 
+== IN READ AIR HUMIDITY IN THE BOX == 
+== IN READ SOIL HUMIDITY 40 IN THE BOX == 
+== IN READ SOIL HUMIDITY 55 IN THE BOX == 
+== IN READ SOIL HUMIDITY 70 IN THE BOX == 
+== IN READ SOIL HUMIDITY 85 IN THE BOX == 
+== IN READ LUMINOSITY IN THE BOX == 
+## luminosity = 255
+== IN READ AIR TEMPERATURE IN THE BOX == 
+## temperature:28.0 C  humidity : 45 %
+\/\/\/\/\/\/\/\/
+#### ALERT FAILED AIR TEMPERATURE ONCE
+\/\/\/\/\/\/\/\/
+== IN READ AIR HUMIDITY IN THE BOX == 
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED AIR HUMIDITY ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED AIR HUMIDITY TWICE - SET WEEDLE CLIMATE DEFAULT  - NO RUN AIR HUMIDITY
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 TWICE - SET WEEDLE CLIMATE DEFAULT  - NO RUN CO2
+\/\/\/\/\/\/\/\/
+####################################
+####     IN THE BOX CLIMATE     ###
+####################################
+## airTemperature = 28
+## airHumdity = 50
+## soilHumdity40 = 0
+## soilHumdity55 = 0
+## soilHumdity70 = 0
+## soilHumdity85 = 0
+## soilHumdity = 0
+## luminosity = 255
+## co2 = 380
+####################################
+#######  ADJUSTMENT ACTIONS  #######
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT TEMPERATURE STARTING  ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+###################################################
+####  WEEDLE ADJUSTMENT TEMPERATURE COMPLETED ####
+###################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT AIR HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+#################################################
+####  WEEDLE ADJUSTMENT AIR HUMIDITY COMPLETED #####
+#################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+////////////////////////////
+=====    TOO DRY   =======
+////////////////////////////
+=====    INCREASE OF  +++ 1
+////////////////////////////
+------------------------
+= IN INCREASE HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSWater:1
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSAir:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSSun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 1
+==  air = 0
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 1
+## Turn ON WATER for: 1
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 0
+## Turn ON AIR for: 0
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+######################################################
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT LUMINOSITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT LUMINOSITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT CO2 STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT CO2 COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+################################################
+####  WEEDLE ADJUSTMENT CLIMATE COMPLETED #####
+################################################
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+ 0
+==  air = 100
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 0
+## Turn ON WATER for: 0
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 500
+## Turn ON AIR for: 500
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+#################################################
+####  WEEDLE ADJUSTMENT AIR HUMIDITY COMPLETED #####
+#################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT LUMINOSITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT LUMINOSITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT CO2 STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT CO2 COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+################################################
+####  WEEDLE ADJUSTMENT CLIMATE COMPLETED #####
+################################################
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+#######################################
+#### IN WEEDLE ADJUSTMENT CLIMATE  ####
+#######################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+##############################################
+#### STARTING WEEDLE ADJUSTMENT CLIMATE  ####
+##############################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WTemperature:30
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumidityAir:80
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumiditySoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WCO2:900
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WLuminosity:255
+####################################
+######   WEEDLE CLIMATE HIGH  ######
+####################################
+## WTemperature = 30
+## WHumidityAir = 80
+## WHumiditySoil = 1
+## WCO2 = 900
+## WLuminosity = 255
+####################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wtemperature:20
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumidity:50
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumiditysoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wco2:380
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wluminosity:0
+####################################
+######    WEEDLE CLIMATE LOW  ######
+####################################
+##  Wtemperature = 20
+##  Whumidityair = 50
+##  Whumiditysoil = 1
+##  Wco2 = 380
+##  Wluminosity = 0
+####################################
+== IN READ AIR TEMPERATURE IN THE BOX == 
+== IN READ AIR HUMIDITY IN THE BOX == 
+== IN READ SOIL HUMIDITY 40 IN THE BOX == 
+== IN READ SOIL HUMIDITY 55 IN THE BOX == 
+== IN READ SOIL HUMIDITY 70 IN THE BOX == 
+== IN READ SOIL HUMIDITY 85 IN THE BOX == 
+== IN READ LUMINOSITY IN THE BOX == 
+## luminosity = 255
+== IN READ AIR TEMPERATURE IN THE BOX == 
+## temperature:27.5 C  humidity : 44 %
+\/\/\/\/\/\/\/\/
+#### ALERT FAILED AIR TEMPERATURE ONCE
+\/\/\/\/\/\/\/\/
+== IN READ AIR HUMIDITY IN THE BOX == 
+##  temperature:27.6 C  humidity : 44 %
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED AIR HUMIDITY ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 TWICE - SET WEEDLE CLIMATE DEFAULT  - NO RUN CO2
+\/\/\/\/\/\/\/\/
+####################################
+####     IN THE BOX CLIMATE     ###
+####################################
+## airTemperature = 27
+## airHumdity = 44
+## soilHumdity40 = 0
+## soilHumdity55 = 0
+## soilHumdity70 = 0
+## soilHumdity85 = 0
+## soilHumdity = 0
+## luminosity = 255
+## co2 = 380
+####################################
+#######  ADJUSTMENT ACTIONS  #######
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT TEMPERATURE STARTING  ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+###################################################
+####  WEEDLE ADJUSTMENT TEMPERATURE COMPLETED ####
+###################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT AIR HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+///////////////////////////////
+=====    AIR TOO DRY   =======
+///////////////////////////////
+=====    INCREASE OF  +++ 6
+////////////////////////////
+------------------------
+= IN INCREASE AIR HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAWater:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAAir:3
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HASun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 0
+==  air = 3
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 0
+## Turn ON WATER for: 0
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 18
+## Turn ON AIR for: 18
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+#################################################
+####  WEEDLE ADJUSTMENT AIR HUMIDITY COMPLETED #####
+#################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+////////////////////////////
+=====    TOO DRY   =======
+////////////////////////////
+=====    INCREASE OF  +++ 1
+////////////////////////////
+------------------------
+= IN INCREASE HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSWater:1
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSAir:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSSun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 1
+==  air = 0
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 1
+## Turn ON WATER for: 1
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 0
+## Turn ON AIR for: 0
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+######################################################
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT LUMINOSITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT LUMINOSITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT CO2 STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT CO2 COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+################################################
+####  WEEDLE ADJUSTMENT CLIMATE COMPLETED #####
+################################################
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+#######################################
+#### IN WEEDLE ADJUSTMENT CLIMATE  ####
+#######################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+##############################################
+#### STARTING WEEDLE ADJUSTMENT CLIMATE  ####
+##############################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WTemperature:30
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumidityAir:80
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumiditySoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WCO2:900
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WLuminosity:255
+####################################
+######   WEEDLE CLIMATE HIGH  ######
+####################################
+## WTemperature = 30
+## WHumidityAir = 80
+## WHumiditySoil = 1
+## WCO2 = 900
+## WLuminosity = 255
+####################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wtemperature:20
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumidity:50
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumiditysoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wco2:380
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wluminosity:0
+####################################
+######    WEEDLE CLIMATE LOW  ######
+####################################
+##  Wtemperature = 20
+##  Whumidityair = 50
+##  Whumiditysoil = 1
+##  Wco2 = 380
+##  Wluminosity = 0
+####################################
+== IN READ AIR TEMPERATURE IN THE BOX == 
+== IN READ AIR HUMIDITY IN THE BOX == 
+##  temperature:27.5 C  humidity : 45 %
+== IN READ SOIL HUMIDITY 40 IN THE BOX == 
+== IN READ SOIL HUMIDITY 55 IN THE BOX == 
+== IN READ SOIL HUMIDITY 70 IN THE BOX == 
+== IN READ SOIL HUMIDITY 85 IN THE BOX == 
+== IN READ LUMINOSITY IN THE BOX == 
+## luminosity = 255
+== IN READ AIR TEMPERATURE IN THE BOX == 
+## temperature:27.5 C  humidity : 45 %
+\/\/\/\/\/\/\/\/
+#### ALERT FAILED AIR TEMPERATURE ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 TWICE - SET WEEDLE CLIMATE DEFAULT  - NO RUN CO2
+\/\/\/\/\/\/\/\/
+####################################
+####     IN THE BOX CLIMATE     ###
+####################################
+## airTemperature = 27
+## airHumdity = 45
+## soilHumdity40 = 0
+## soilHumdity55 = 0
+## soilHumdity70 = 0
+## soilHumdity85 = 0
+## soilHumdity = 0
+## luminosity = 255
+## co2 = 380
+####################################
+#######  ADJUSTMENT ACTIONS  #######
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT TEMPERATURE STARTING  ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+###################################################
+####  WEEDLE ADJUSTMENT TEMPERATURE COMPLETED ####
+###################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT AIR HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+///////////////////////////////
+=====    AIR TOO DRY   =======
+///////////////////////////////
+=====    INCREASE OF  +++ 5
+////////////////////////////
+------------------------
+= IN INCREASE AIR HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAWater:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAAir:3
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HASun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 0
+==  air = 3
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 0
+## Turn ON WATER for: 0
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 15
+## Turn ON AIR for: 15
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+#################################################
+####  WEEDLE ADJUSTMENT AIR HUMIDITY COMPLETED #####
+#################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+////////////////////////////
+=====    TOO DRY   =======
+////////////////////////////
+=====    INCREASE OF  +++ 1
+////////////////////////////
+------------------------
+= IN INCREASE HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSWater:10
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSAir:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSSun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 10
+==  air = 0
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 10
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/    BRAIN    /\/\/\/\/\/\/\/\/\/
+####  ALERT TIME ADJUSTMENT TO HIGH TO USE WATER 
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+## Turn ON WATER for: 2
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 0
+## Turn ON AIR for: 0
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+######################################################
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT LUMINOSITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT LUMINOSITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT CO2 STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT CO2 COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+################################################
+####  WEEDLE ADJUSTMENT CLIMATE COMPLETED #####
+################################################
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+##### IN BLUE LIGHT OFF ####
+Blue Light OFF...
+#######################################
+#### IN WEEDLE ADJUSTMENT CLIMATE  ####
+#######################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+##############################################
+#### STARTING WEEDLE ADJUSTMENT CLIMATE  ####
+##############################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WTemperature:30
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumidityAir:80
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumiditySoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WCO2:900
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WLuminosity:255
+####################################
+######   WEEDLE CLIMATE HIGH  ######
+####################################
+## WTemperature = 30
+## WHumidityAir = 80
+## WHumiditySoil = 1
+## WCO2 = 900
+## WLuminosity = 255
+####################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wtemperature:20
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumidity:50
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumiditysoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wco2:380
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wluminosity:0
+####################################
+######    WEEDLE CLIMATE LOW  ######
+####################################
+##  Wtemperature = 20
+##  Whumidityair = 50
+##  Whumiditysoil = 1
+##  Wco2 = 380
+##  Wluminosity = 0
+####################################
+== IN READ AIR TEMPERATURE IN THE BOX == 
+## temperature:27.5 C  humidity : 45 %
+== IN READ AIR HUMIDITY IN THE BOX == 
+== IN READ SOIL HUMIDITY 40 IN THE BOX == 
+== IN READ SOIL HUMIDITY 55 IN THE BOX == 
+== IN READ SOIL HUMIDITY 70 IN THE BOX == 
+== IN READ SOIL HUMIDITY 85 IN THE BOX == 
+== IN READ LUMINOSITY IN THE BOX == 
+## luminosity = 255
+== IN READ AIR HUMIDITY IN THE BOX == 
+##  temperature:27.5 C  humidity : 46 %
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED AIR HUMIDITY ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 TWICE - SET WEEDLE CLIMATE DEFAULT  - NO RUN CO2
+\/\/\/\/\/\/\/\/
+####################################
+####     IN THE BOX CLIMATE     ###
+####################################
+## airTemperature = 27
+## airHumdity = 46
+## soilHumdity40 = 0
+## soilHumdity55 = 0
+## soilHumdity70 = 0
+## soilHumdity85 = 0
+## soilHumdity = 0
+## luminosity = 255
+## co2 = 380
+####################################
+#######  ADJUSTMENT ACTIONS  #######
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT TEMPERATURE STARTING  ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+###################################################
+####  WEEDLE ADJUSTMENT TEMPERATURE COMPLETED ####
+###################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT AIR HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+///////////////////////////////
+=====    AIR TOO DRY   =======
+///////////////////////////////
+=====    INCREASE OF  +++ 4
+////////////////////////////
+------------------------
+= IN INCREASE AIR HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAWater:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAAir:3
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HASun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 0############################
+##### IN WEEDLE SUNRISE ####
+############################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+## Read Weedle WSunriseRED:ON
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+## Read Weedle WSunriseBLUE:ON
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WSunriseWHITE:ON
+####    WEEDLE SUNRISE  #####
+#############################
+##  WSunsetRED = ON
+##  WSunsetBLUE = ON
+##  WSunsetWHITE = ON
+#############################
+Turn ON RedSUN
+##### IN RED LIGHT ON ####
+Red Light ON...
+----
+Turn ON BlueSUN
+##### IN BLUE LIGHT ON ####
+Blue Light ON...
+----
+Turn On whiteSUN
+##### IN WHITE LIGHT ON ####
+White Light ON...
+----
+
+==  air = 3
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 0
+## Turn ON WATER for: 0
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 12
+## Turn ON AIR for: 12
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+#################################################
+####  WEEDLE ADJUSTMENT AIR HUMIDITY COMPLETED #####
+#################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+////////////////////////////
+=====    TOO DRY   =======
+////////////////////////////
+=====    INCREASE OF  +++ 1
+////////////////////////////
+------------------------
+= IN INCREASE HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSWater:10
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSAir:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSSun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 10
+==  air = 0
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 10
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/    BRAIN    /\/\/\/\/\/\/\/\/\/
+####  ALERT TIME ADJUSTMENT TO HIGH TO USE WATER 
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+## Turn ON WATER for: 2
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 0
+## Turn ON AIR for: 0
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+######################################################
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT LUMINOSITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT LUMINOSITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT CO2 STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT CO2 COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+################################################
+####  WEEDLE ADJUSTMENT CLIMATE COMPLETED #####
+################################################
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+#######################################
+#### IN WEEDLE ADJUSTMENT CLIMATE  ####
+#######################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+##############################################
+#### STARTING WEEDLE ADJUSTMENT CLIMATE  ####
+##############################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WTemperature:30
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumidityAir:80
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumiditySoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WCO2:900
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WLuminosity:255
+####################################
+######   WEEDLE CLIMATE HIGH  ######
+####################################
+## WTemperature = 30
+## WHumidityAir = 80
+## WHumiditySoil = 1
+## WCO2 = 900
+## WLuminosity = 255
+####################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wtemperature:20
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumidity:50
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumiditysoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wco2:380
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wluminosity:0
+####################################
+######    WEEDLE CLIMATE LOW  ######
+####################################
+##  Wtemperature = 20
+##  Whumidityair = 50
+##  Whumiditysoil = 1
+##  Wco2 = 380
+##  Wluminosity = 0
+####################################
+== IN READ AIR TEMPERATURE IN THE BOX == 
+## temperature:27.5 C  humidity : 45 %
+== IN READ AIR HUMIDITY IN THE BOX == 
+##  temperature:27.5 C  humidity : 45 %
+== IN READ SOIL HUMIDITY 40 IN THE BOX == 
+== IN READ SOIL HUMIDITY 55 IN THE BOX == 
+== IN READ SOIL HUMIDITY 70 IN THE BOX == 
+== IN READ SOIL HUMIDITY 85 IN THE BOX == 
+== IN READ LUMINOSITY IN THE BOX == 
+## luminosity = 255
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 TWICE - SET WEEDLE CLIMATE DEFAULT  - NO RUN CO2
+\/\/\/\/\/\/\/\/
+####################################
+####     IN THE BOX CLIMATE     ###
+####################################
+## airTemperature = 27
+## airHumdity = 45
+## soilHumdity40 = 0
+## soilHumdity55 = 0
+## soilHumdity70 = 0
+## soilHumdity85 = 0
+## soilHumdity = 0
+## luminosity = 255
+## co2 = 380
+####################################
+#######  ADJUSTMENT ACTIONS  #######
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT TEMPERATURE STARTING  ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+###################################################
+####  WEEDLE ADJUSTMENT TEMPERATURE COMPLETED ####
+###################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT AIR HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+///////////////////////////////
+=====    AIR TOO DRY   =======
+///////////////////////////////
+=====    INCREASE OF  +++ 5
+////////////////////////////
+------------------------
+= IN INCREASE AIR HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAWater:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAAir:3
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HASun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 0
+==  air = 3
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 0
+## Turn ON WATER for: 0
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 15
+## Turn ON AIR for: 15
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+#################################################
+####  WEEDLE ADJUSTMENT AIR HUMIDITY COMPLETED #####
+#################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+////////////////////////////
+=====    TOO DRY   =======
+////////////////////////////
+=====    INCREASE OF  +++ 1
+////////////////////////////
+------------------------
+= IN INCREASE HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSWater:10
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSAir:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSSun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 10
+==  air = 0
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 10
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/    BRAIN    /\/\/\/\/\/\/\/\/\/
+####  ALERT TIME ADJUSTMENT TO HIGH TO USE WATER 
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+## Turn ON WATER for: 2
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 0
+## Turn ON AIR for: 0
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+######################################################
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT LUMINOSITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT LUMINOSITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT CO2 STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT CO2 COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+################################################
+####  WEEDLE ADJUSTMENT CLIMATE COMPLETED #####
+################################################
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+#######################################
+#### IN WEEDLE ADJUSTMENT CLIMATE  ####
+#######################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+##############################################
+#### STARTING WEEDLE ADJUSTMENT CLIMATE  ####
+##############################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WTemperature:30
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumidityAir:80
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumiditySoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WCO2:900
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WLuminosity:255
+####################################
+######   WEEDLE CLIMATE HIGH  ######
+####################################
+## WTemperature = 30
+## WHumidityAir = 80
+## WHumiditySoil = 1
+## WCO2 = 900
+## WLuminosity = 255
+####################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wtemperature:20
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumidity:50
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumiditysoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wco2:380
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wluminosity:0
+####################################
+######    WEEDLE CLIMATE LOW  ######
+####################################
+##  Wtemperature = 20
+##  Whumidityair = 50
+##  Whumiditysoil = 1
+##  Wco2 = 380
+##  Wluminosity = 0
+####################################
+== IN READ AIR TEMPERATURE IN THE BOX == 
+== IN READ AIR HUMIDITY IN THE BOX == 
+##  temperature:27.5 C  humidity : 44 %
+== IN READ SOIL HUMIDITY 40 IN THE BOX == 
+== IN READ SOIL HUMIDITY 55 IN THE BOX == 
+== IN READ SOIL HUMIDITY 70 IN THE BOX == 
+== IN READ SOIL HUMIDITY 85 IN THE BOX == 
+== IN READ LUMINOSITY IN THE BOX == 
+## luminosity = 255
+== IN READ AIR TEMPERATURE IN THE BOX == 
+\/\/\/\/\/\/\/\/
+#### ALERT FAILED AIR TEMPERATURE ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+#### ALERT FAILED AIR TEMPERATURE TWICE - SET WEEDLE CLIMATE DEFAULT - NO RUN TEMPERATURE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 TWICE - SET WEEDLE CLIMATE DEFAULT  - NO RUN CO2
+\/\/\/\/\/\/\/\/
+####################################
+####     IN THE BOX CLIMATE     ###
+####################################
+## airTemperature = 20
+## airHumdity = 44
+## soilHumdity40 = 0
+## soilHumdity55 = 0
+## soilHumdity70 = 0
+## soilHumdity85 = 0
+## soilHumdity = 0
+## luminosity = 255
+## co2 = 380
+####################################
+#######  ADJUSTMENT ACTIONS  #######
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT TEMPERATURE STARTING  ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+###################################################
+####  WEEDLE ADJUSTMENT TEMPERATURE COMPLETED ####
+###################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT AIR HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+///////////////////////////////
+=====    AIR TOO DRY   =======
+///////////////////////////////
+=====    INCREASE OF  +++ 6
+////////////////////////////
+------------------------
+= IN INCREASE AIR HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAWater:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAAir:3
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HASun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 0
+==  air = 3
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 0
+## Turn ON WATER for: 0
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 18
+## Turn ON AIR for: 18
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+#################################################
+####  WEEDLE ADJUSTMENT AIR HUMIDITY COMPLETED #####
+#################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+////////////////////////////
+=====    TOO DRY   =======
+////////////////////////////
+=====    INCREASE OF  +++ 1
+////////////////////////////
+------------------------
+= IN INCREASE HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSWater:10
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSAir:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSSun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 10
+==  air = 0
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 10
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/    BRAIN    /\/\/\/\/\/\/\/\/\/
+####  ALERT TIME ADJUSTMENT TO HIGH TO USE WATER 
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+## Turn ON WATER for: 2
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 0
+## Turn ON AIR for: 0
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+######################################################
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT LUMINOSITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT LUMINOSITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT CO2 STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT CO2 COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+################################################
+####  WEEDLE ADJUSTMENT CLIMATE COMPLETED #####
+################################################
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+in thread sleeping for 60 seconds
+current time is: 21:31
+There are no command to trigger for current time: 21:31
+Main thread sleeping for 60 seconds
+current time is: 21:32
+There are no command to trigger for current time: 21:32
+Main thread sleeping for 60 seconds
+current time is: 21:33
+There are no command to trigger for current time: 21:33
+Main thread sleeping for 60 seconds
+current time is: 21:34
+There are no command to trigger for current time: 21:34
+Main thread sleeping for 60 seconds
+current time is: 21:35
+There are 2 commands to trigger
+Execute python /home/pi/weedle/gardener/main/weedleAdjustClimate.py
+Execute /home/pi/weedle/gardener/main/logs/sendmail.sh
+Main thread sleeping for 59 seconds
+current time is: 21:36
+There are no command to trigger for current time: 21:36
+Main thread sleeping for 60 seconds
+current time is: 21:37
+There are no command to trigger for current time: 21:37
+Main thread sleeping for 60 seconds
+current time is: 21:38
+There are no command to trigger for current time: 21:38
+Main thread sleeping for 60 seconds
+current time is: 21:39
+There are no command to trigger for current time: 21:39
+Main thread sleeping for 60 seconds
+current time is: 21:40
+There are 2 commands to trigger
+Execute python /home/pi/weedle/gardener/main/weedleAdjustClimate.py
+Execute /home/pi/weedle/gardener/main/logs/sendmail.sh
+Main thread sleeping for 60 seconds
+current time is: 21:41
+There are no command to trigger for current time: 21:41
+Main thread sleeping for 60 seconds
+current time is: 21:42
+There are no command to trigger for current time: 21:42
+Main thread sleeping for 60 seconds
+current time is: 21:43
+There are 1 commands to trigger
+Execute /home/pi/weedle/gardener/main/plantdiagnostic/takePlantRedPicture.sh
+Main thread sleeping for 60 seconds
+current time is: 21:44
+There are 1 commands to trigger
+Execute python /home/pi/weedle/gardener/main/elements/sun/bluelightOFF.py
+Main thread sleeping for 60 seconds
+current time is: 21:45
+There are 3 commands to trigger
+Execute python /home/pi/weedle/gardener/main/weedleSunON.py
+Execute python /home/pi/weedle/gardener/main/weedleAdjustClimate.py
+Execute /home/pi/weedle/gardener/main/logs/sendmail.sh
+Main thread sleeping for 60 seconds
+current time is: 21:46
+There are no command to trigger for current time: 21:46
+Main thread sleeping for 60 seconds
+current time is: 21:47
+There are no command to trigger for current time: 21:47
+Main thread sleeping for 60 seconds
+current time is: 21:48
+There are no command to trigger for current time: 21:48
+Main thread sleeping for 60 seconds
+current time is: 21:49
+There are no command to trigger for current time: 21:49
+Main thread sleeping for 60 seconds
+current time is: 21:50
+There are 2 commands to trigger
+Execute python /home/pi/weedle/gardener/main/weedleAdjustClimate.py
+Execute /home/pi/weedle/gardener/main/logs/sendmail.sh
+Main thread sleeping for 60 seconds
+current time is: 21:51
+There are no command to trigger for current time: 21:51
+Main thread sleeping for 59 seconds
+current time is: 21:52
+There are no command to trigger for current time: 21:52
+Main thread sleeping for 60 seconds
+current time is: 21:53
+There are no command to trigger for current time: 21:53
+Main thread sleeping for 60 seconds
+current time is: 21:54
+There are no command to trigger for current time: 21:54
+Main thread sleeping for 60 seconds
+current time is: 21:55
+There are 2 commands to trigger
+Execute python /home/pi/weedle/gardener/main/weedleAdjustClimate.py
+Execute /home/pi/weedle/gardener/main/logs/sendmail.sh
+Main thread sleeping for 60 seconds
+current time is: 21:56
+There are no command to trigger for current time: 21:56
+Main thread sleeping for 60 seconds
+current time is: 21:57
+There are no command to trigger for current time: 21:57
+Main thread sleeping for 60 seconds
+current time is: 21:58
+There are 1 commands to trigger
+Execute /home/pi/weedle/gardener/main/plantdiagnostic/takePlantRedPicture.sh
+Main thread sleeping for 60 seconds
+current time is: 21:59
+There are 1 commands to trigger
+Execute python /home/pi/weedle/gardener/main/weedleSunOFF.py
+Main thread sle#######################################
+#####    IN WEEDLE SUNSET          ####
+#######################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WSunsetRED:OFF
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WSunsetBLUE:OFF
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+## Read Weedle WSunsetWHITE:OFF
+####    WEEDLE SUNSET  #####
+############################
+##  WSunsetRED = OFF
+##  WSunsetBLUE = OFF
+##  WSunsetWHITE = OFF
+############################
+##  Turn OFF RedSUN
+##### IN RED LIGHT OFF ####
+Red Light OFF...
+----
+## Turn OFF BlueSUN
+##### IN BLUE LIGHT OFF ####
+Blue Light OFF...
+----
+##  Turn OFF whiteSUN
+##### IN WHITE LIGHT OFF ####
+White Light OFF...
+----
+#######################################
+#### IN WEEDLE ADJUSTMENT CLIMATE  ####
+#######################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+##############################################
+#### STARTING WEEDLE ADJUSTMENT CLIMATE  ####
+##############################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WTemperature:30
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumidityAir:80
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumiditySoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WCO2:900
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WLuminosity:255
+####################################
+######   WEEDLE CLIMATE HIGH  ######
+####################################
+## WTemperature = 30
+## WHumidityAir = 80
+## WHumiditySoil = 1
+## WCO2 = 900
+## WLuminosity = 255
+####################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wtemperature:20
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumidity:50
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumiditysoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wco2:380
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wluminosity:0
+####################################
+######    WEEDLE CLIMATE LOW  ######
+####################################
+##  Wtemperature = 20
+##  Whumidityair = 50
+##  Whumiditysoil = 1
+##  Wco2 = 380
+##  Wluminosity = 0
+####################################
+== IN READ AIR TEMPERATURE IN THE BOX == 
+## temperature:27.5 C  humidity : 44 %
+== IN READ AIR HUMIDITY IN THE BOX == 
+##  temperature:28.5 C  humidity : 43 %
+== IN READ SOIL HUMIDITY 40 IN THE BOX == 
+== IN READ SOIL HUMIDITY 55 IN THE BOX == 
+== IN READ SOIL HUMIDITY 70 IN THE BOX == 
+== IN READ SOIL HUMIDITY 85 IN THE BOX == 
+== IN READ LUMINOSITY IN THE BOX == 
+## luminosity = 255
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 TWICE - SET WEEDLE CLIMATE DEFAULT  - NO RUN CO2
+\/\/\/\/\/\/\/\/
+####################################
+####     IN THE BOX CLIMATE     ###
+####################################
+## airTemperature = 27
+## airHumdity = 43
+## soilHumdity40 = 0
+## soilHumdity55 = 0
+## soilHumdity70 = 0
+## soilHumdity85 = 0
+## soilHumdity = 0
+## luminosity = 255
+## co2 = 380
+####################################
+#######  ADJUSTMENT ACTIONS  #######
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT TEMPERATURE STARTING  ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+###################################################
+####  WEEDLE ADJUSTMENT TEMPERATURE COMPLETED ####
+###################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT AIR HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+///////////////////////////////
+=====    AIR TOO DRY   =======
+///////////////////////////////
+=====    INCREASE OF  +++ 7
+////////////////////////////
+------------------------
+= IN INCREASE AIR HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAWater:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAAir:3
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HASun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 0
+==  air = 3
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 0
+## Turn ON WATER for: 0
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 21
+## Turn ON AIR for: 21
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+#################################################
+####  WEEDLE ADJUSTMENT AIR HUMIDITY COMPLETED #####
+#################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+////////////////////////////
+=====    TOO DRY   =======
+////////////////////////////
+=====    INCREASE OF  +++ 1
+////////////////////////////
+------------------------
+= IN INCREASE HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSWater:10
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSAir:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSSun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 10
+==  air = 0
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 10
+## Turn ON WATER for: 10
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 0
+## Turn ON AIR for: 0
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+######################################################
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT LUMINOSITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT LUMINOSITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT CO2 STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT CO2 COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+################################################
+####  WEEDLE ADJUSTMENT CLIMATE COMPLETED #####
+################################################
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+#######################################
+#### IN WEEDLE ADJUSTMENT CLIMATE  ####
+#######################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+##############################################
+#### STARTING WEEDLE ADJUSTMENT CLIMATE  ####
+##############################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WTemperature:30
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumidityAir:80
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumiditySoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WCO2:900
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WLuminosity:255
+####################################
+######   WEEDLE CLIMATE HIGH  ######
+####################################
+## WTemperature = 30
+## WHumidityAir = 80
+## WHumiditySoil = 1
+## WCO2 = 900
+## WLuminosity = 255
+####################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wtemperature:20
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumidity:50
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumiditysoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wco2:380
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wluminosity:0
+####################################
+######    WEEDLE CLIMATE LOW  ######
+####################################
+##  Wtemperature = 20
+##  Whumidityair = 50
+##  Whumiditysoil = 1
+##  Wco2 = 380
+##  Wluminosity = 0
+####################################
+== IN READ AIR TEMPERATURE IN THE BOX == 
+## temperature:28.5 C  humidity : 43 %
+== IN READ AIR HUMIDITY IN THE BOX == 
+##  temperature:28.7 C  humidity : 43 %
+== IN READ SOIL HUMIDITY 40 IN THE BOX == 
+== IN READ SOIL HUMIDITY 55 IN THE BOX == 
+== IN READ SOIL HUMIDITY 70 IN THE BOX == 
+== IN READ SOIL HUMIDITY 85 IN THE BOX == 
+== IN READ LUMINOSITY IN THE BOX == 
+## luminosity = 255
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 TWICE - SET WEEDLE CLIMATE DEFAULT  - NO RUN CO2
+\/\/\/\/\/\/\/\/
+####################################
+####     IN THE BOX CLIMATE     ###
+####################################
+## airTemperature = 28
+## airHumdity = 43
+## soilHumdity40 = 0
+## soilHumdity55 = 0
+## soilHumdity70 = 0
+## soilHumdity85 = 0
+## soilHumdity = 0
+## luminosity = 255
+## co2 = 380
+####################################
+#######  ADJUSTMENT ACTIONS  #######
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT TEMPERATURE STARTING  ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+###################################################
+####  WEEDLE ADJUSTMENT TEMPERATURE COMPLETED ####
+###################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT AIR HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+///////////////////////////////
+=====    AIR TOO DRY   =======
+///////////////////////////////
+=====    INCREASE OF  +++ 7
+////////////////////////////
+------------------------
+= IN INCREASE AIR HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAWater:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAAir:3
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HASun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 0
+==  air = 3
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 0
+## Turn ON WATER for: 0
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 21
+## Turn ON AIR for: 21
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+#################################################
+####  WEEDLE ADJUSTMENT AIR HUMIDITY COMPLETED #####
+#################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+////////////////////////////
+=====    TOO DRY   =======
+////////////////////////////
+=====    INCREASE OF  +++ 1
+////////////////////////////
+------------------------
+= IN INCREASE HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSWater:10
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSAir:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSSun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 10
+==  air = 0
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 10
+## Turn ON WATER for: 10
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 0
+## Turn ON AIR for: 0
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+######################################################
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT LUMINOSITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT LUMINOSITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT CO2 STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT CO2 COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+################################################
+####  WEEDLE ADJUSTMENT CLIMATE COMPLETED #####
+################################################
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+#######################################
+#### IN WEEDLE ADJUSTMENT CLIMATE  ####
+#######################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+##############################################
+#### STARTING WEEDLE ADJUSTMENT CLIMATE  ####
+##############################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WTemperature:30
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumidityAir:80
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumiditySoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WCO2:900
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WLuminosity:255
+####################################
+######   WEEDLE CLIMATE HIGH  ######
+####################################
+## WTemperature = 30
+## WHumidityAir = 80
+## WHumiditySoil = 1
+## WCO2 = 900
+## WLuminosity = 255
+####################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wtemperature:20
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumidity:50
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumiditysoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wco2:380
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wluminosity:0
+####################################
+######    WEEDLE CLIMATE LOW  ######
+####################################
+##  Wtemperature = 20
+##  Whumidityair = 50
+##  Whumiditysoil = 1
+##  Wco2 = 380
+##  Wluminosity = 0
+####################################
+== IN READ AIR TEMPERATURE IN THE BOX == 
+== IN READ AIR HUMIDITY IN THE BOX == 
+##  temperature:28.5 C  humidity : 43 %
+== IN READ SOIL HUMIDITY 40 IN THE BOX == 
+== IN READ SOIL HUMIDITY 55 IN THE BOX == 
+== IN READ SOIL HUMIDITY 70 IN THE BOX == 
+== IN READ SOIL HUMIDITY 85 IN THE BOX == 
+== IN READ LUMINOSITY IN THE BOX == 
+## luminosity = 255
+== IN READ AIR TEMPERATURE IN THE BOX == 
+## temperature:28.5 C  humidity : 43 %
+\/\/\/\/\/\/\/\/
+#### ALERT FAILED AIR TEMPERATURE ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 TWICE - SET WEEDLE CLIMATE DEFAULT  - NO RUN CO2
+\/\/\/\/\/\/\/\/
+####################################
+####     IN THE BOX CLIMATE     ###
+####################################
+## airTemperature = 28
+## airHumdity = 43
+## soilHumdity40 = 0
+## soilHumdity55 = 0
+## soilHumdity70 = 0
+## soilHumdity85 = 0
+## soilHumdity = 0
+## luminosity = 255
+## co2 = 380
+####################################
+#######  ADJUSTMENT ACTIONS  #######
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT TEMPERATURE STARTING  ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+###################################################
+####  WEEDLE ADJUSTMENT TEMPERATURE COMPLETED ####
+###################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT AIR HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+///////////////////////////////
+=====    AIR TOO DRY   =======
+///////////////////////////////
+=====    INCREASE OF  +++ 7
+////////////////////////////
+------------------------
+= IN INCREASE AIR HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAWater:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAAir:3
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HASun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 0
+==  air = 3
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 0
+## Turn ON WATER for: 0
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 21
+## Turn ON AIR for: 21
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+#################################################
+####  WEEDLE ADJUSTMENT AIR HUMIDITY COMPLETED #####
+#################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+////////////////////////////
+=====    TOO DRY   =======
+////////////////////////////
+=====    INCREASE OF  +++ 1
+////////////////////////////
+------------------------
+= IN INCREASE HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSWater:10
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSAir:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSSun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 10
+==  air = 0
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 10
+## Turn ON WATER for: 10
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 0
+## Turn ON AIR for: 0
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+######################################################
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT LUMINOSITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT LUMINOSITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT CO2 STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT CO2 COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+################################################
+####  WEEDLE ADJUSTMENT CLIMATE COMPLETED #####
+################################################
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+#######################################
+#### IN WEEDLE ADJUSTMENT CLIMATE  ####
+#######################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+##############################################
+#### STARTING WEEDLE ADJUSTMENT CLIMATE  ####
+##############################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WTemperature:30
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumidityAir:80
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumiditySoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WCO2:900
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WLuminosity:255
+####################################
+######   WEEDLE CLIMATE HIGH  ######
+####################################
+## WTemperature = 30
+## WHumidityAir = 80
+## WHumiditySoil = 1
+## WCO2 = 900
+## WLuminosity = 255
+####################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wtemperature:20
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumidity:50
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumiditysoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wco2:380
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wluminosity:0
+####################################
+######    WEEDLE CLIMATE LOW  ######
+####################################
+##  Wtemperature = 20
+##  Whumidityair = 50
+##  Whumiditysoil = 1
+##  Wco2 = 380
+##  Wluminosity = 0
+####################################
+== IN READ AIR TEMPERATURE IN THE BOX == 
+## temperature:28.6 C  humidity : 43 %
+== IN READ AIR HUMIDITY IN THE BOX == 
+##  temperature:28.3 C  humidity : 44 %
+== IN READ SOIL HUMIDITY 40 IN THE BOX == 
+== IN READ SOIL HUMIDITY 55 IN THE BOX == 
+== IN READ SOIL HUMIDITY 70 IN THE BOX == 
+== IN READ SOIL HUMIDITY 85 IN THE BOX == 
+== IN READ LUMINOSITY IN THE BOX == 
+## luminosity = 255
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 TWICE - SET WEEDLE CLIMATE DEFAULT  - NO RUN CO2
+\/\/\/\/\/\/\/\/
+####################################
+####     IN THE BOX CLIMATE     ###
+####################################
+## airTemperature = 28
+## airHumdity = 44
+## soilHumdity40 = 0
+## soilHumdity55 = 0
+## soilHumdity70 = 0
+## soilHumdity85 = 0
+## soilHumdity = 0
+## luminosity = 255
+## co2 = 380
+####################################
+#######  ADJUSTMENT ACTIONS  #######
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT TEMPERATURE STARTING  ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+###################################################
+####  WEEDLE ADJUSTMENT TEMPERATURE COMPLETED ####
+###################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT AIR HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+///////////////////////////////
+=====    AIR TOO DRY   =======
+///////////////////////////////
+=====    INCREASE OF  +++ 6
+////////////////////////////
+------------------------
+= IN INCREASE AIR HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAWater:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAAir:3
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HASun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 0
+==  air = 3
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 0
+## Turn ON WATER for: 0
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 18
+## Turn ON AIR for: 18
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+#################################################
+####  WEEDLE ADJUSTMENT AIR HUMIDITY COMPLETED #####
+#################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+////////////////////////////
+=====    TOO DRY   =======
+////////////////////////////
+=====    INCREASE OF  +++ 1
+////////////////////////////
+------------------------
+= IN INCREASE HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSWater:10
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSAir:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSSun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 10
+==  air = 0
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 10
+## Turn ON WATER for: 10
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 0
+## Turn ON AIR for: 0
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+######################################################
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT LUMINOSITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT LUMINOSITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT CO2 STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT CO2 COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+################################################
+####  WEEDLE ADJUSTMENT CLIMATE COMPLETED #####
+################################################
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+#######################################
+#### IN WEEDLE ADJUSTMENT CLIMATE  ####
+#######################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+##############################################
+#### STARTING WEEDLE ADJUSTMENT CLIMATE  ####
+##############################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WTemperature:30
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumidityAir:80
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumiditySoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WCO2:900
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WLuminosity:255
+####################################
+######   WEEDLE CLIMATE HIGH  ######
+####################################
+## WTemperature = 30
+## WHumidityAir = 80
+## WHumiditySoil = 1
+## WCO2 = 900
+## WLuminosity = 255
+####################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wtemperature:20
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumidity:50
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumiditysoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wco2:380
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wluminosity:0
+####################################
+######    WEEDLE CLIMATE LOW  ######
+####################################
+##  Wtemperature = 20
+##  Whumidityair = 50
+##  Whumiditysoil = 1
+##  Wco2 = 380
+##  Wluminosity = 0
+####################################
+== IN READ AIR TEMPERATURE IN THE BOX == 
+## temperature:28.3 C  humidity : 44 %
+== IN READ AIR HUMIDITY IN THE BOX == 
+##  temperature:28.1 C  humidity : 45 %
+== IN READ SOIL HUMIDITY 40 IN THE BOX == 
+== IN READ SOIL HUMIDITY 55 IN THE BOX == 
+== IN READ SOIL HUMIDITY 70 IN THE BOX == 
+== IN READ SOIL HUMIDITY 85 IN THE BOX == 
+== IN READ LUMINOSITY IN THE BOX == 
+## luminosity = 255
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 TWICE - SET WEEDLE CLIMATE DEFAULT  - NO RUN CO2
+\/\/\/\/\/\/\/\/
+####################################
+####     IN THE BOX CLIMATE     ###
+####################################
+## airTemperature = 28
+## airHumdity = 45
+## soilHumdity40 = 0
+## soilHumdity55 = 0
+## soilHumdity70 = 0
+## soilHumdity85 = 0
+## soilHumdity = 0
+## luminosity = 255
+## co2 = 380
+####################################
+#######  ADJUSTMENT ACTIONS  #######
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT TEMPERATURE STARTING  ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+###################################################
+####  WEEDLE ADJUSTMENT TEMPERATURE COMPLETED ####
+###################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT AIR HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+///////////////////////////////
+=====    AIR TOO DRY   =======
+///////////////////////////////
+=====    INCREASE OF  +++ 5
+////////////////////////////
+------------------------
+= IN INCREASE AIR HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAWater:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAAir:3
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HASun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 0
+==  air = 3
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 0
+## Turn ON WATER for: 0
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 15
+## Turn ON AIR for: 15
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+#################################################
+####  WEEDLE ADJUSTMENT AIR HUMIDITY COMPLETED #####
+#################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+////////////////////////////
+=====    TOO DRY   =======
+////////////////////////////
+=====    INCREASE OF  +++ 1
+////////////////////////////
+------------------------
+= IN INCREASE HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSWater:10
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSAir:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSSun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 10
+==  air = 0
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 10
+## Turn ON WATER for: 10
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 0
+## Turn ON AIR for: 0
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+######################################################
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT LUMINOSITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT LUMINOSITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT CO2 STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT CO2 COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+################################################
+####  WEEDLE ADJUSTMENT CLIMATE COMPLETED #####
+################################################
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+#######################################
+#### IN WEEDLE ADJUSTMENT CLIMATE  ####
+#######################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+##############################################
+#### STARTING WEEDLE ADJUSTMENT CLIMATE  ####
+##############################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WTemperature:30
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumidityAir:80
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumiditySoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WCO2:900
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WLuminosity:255
+####################################
+######   WEEDLE CLIMATE HIGH  ######
+####################################
+## WTemperature = 30
+## WHumidityAir = 80
+## WHumiditySoil = 1
+## WCO2 = 900
+## WLuminosity = 255
+####################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wtemperature:20
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumidity:50
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumiditysoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wco2:380
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wluminosity:0
+####################################
+######    WEEDLE CLIMATE LOW  ######
+####################################
+##  Wtemperature = 20
+##  Whumidityair = 50
+##  Whumiditysoil = 1
+##  Wco2 = 380
+##  Wluminosity = 0
+####################################
+== IN READ AIR TEMPERATURE IN THE BOX == 
+## temperature:28.1 C  humidity : 45 %
+== IN READ AIR HUMIDITY IN THE BOX == 
+##  temperature:27.8 C  humidity : 44 %
+== IN READ SOIL HUMIDITY 40 IN THE BOX == 
+== IN READ SOIL HUMIDITY 55 IN THE BOX == 
+== IN READ SOIL HUMIDITY 70 IN THE BOX == 
+== IN READ SOIL HUMIDITY 85 IN THE BOX == 
+== IN READ LUMINOSITY IN THE BOX == 
+## luminosity = 255
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 TWICE - SET WEEDLE CLIMATE DEFAULT  - NO RUN CO2
+\/\/\/\/\/\/\/\/
+####################################
+####     IN THE BOX CLIMATE     ###
+####################################
+## airTemperature = 28
+## airHumdity = 44
+## soilHumdity40 = 0
+## soilHumdity55 = 0
+## soilHumdity70 = 0
+## soilHumdity85 = 0
+## soilHumdity = 0
+## luminosity = 255
+## co2 = 380
+####################################
+#######  ADJUSTMENT ACTIONS  #######
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT TEMPERATURE STARTING  ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+###################################################
+####  WEEDLE ADJUSTMENT TEMPERATURE COMPLETED ####
+###################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT AIR HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+///////////////////////////////
+=====    AIR TOO DRY   =======
+///////////////////////////////
+=====    INCREASE OF  +++ 6
+////////////////////////////
+------------------------
+= IN INCREASE AIR HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAWater:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAAir:3
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HASun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 0
+==  air = 3
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 0
+## Turn ON WATER for: 0
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 18
+## Turn ON AIR for: 18
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+#################################################
+####  WEEDLE ADJUSTMENT AIR HUMIDITY COMPLETED #####
+#################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+////////////////////////////
+=====    TOO DRY   =======
+////////////////////////////
+=====    INCREASE OF  +++ 1
+////////////////////////////
+------------------------
+= IN INCREASE HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSWater:10
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSAir:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSSun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 10
+==  air = 0
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 10
+## Turn ON WATER for: 10
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 0
+## Turn ON AIR for: 0
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+######################################################
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT LUMINOSITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT LUMINOSITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT CO2 STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT CO2 COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+################################################
+####  WEEDLE ADJUSTMENT CLIMATE COMPLETED #####
+################################################
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+eping for 60 seconds
+current time is: 22:00
+There are 2 commands to trigger
+Execute python /home/pi/weedle/gardener/main/weedleAdjustClimate.py
+Execute /home/pi/weedle/gardener/main/logs/sendmail.sh
+Main thread sleeping for 60 seconds
+current time is: 22:01
+There are no command to trigger for current time: 22:01
+Main thread sleeping for 60 seconds
+current time is: 22:02
+There are no command to trigger for current time: 22:02
+Main thread sleeping for 60 seconds
+current time is: 22:03
+There are no command to trigger for current time: 22:03
+Main thread sleeping for 60 seconds
+current time is: 22:04
+There are no command to trigger for current time: 22:04
+Main thread sleeping for 60 seconds
+current time is: 22:05
+There are 2 commands to trigger
+Execute python /home/pi/weedle/gardener/main/weedleAdjustClimate.py
+Execute /home/pi/weedle/gardener/main/logs/sendmail.sh
+Main thread sleeping for 60 seconds
+current time is: 22:06
+There are no command to trigger for current time: 22:06
+Main thread sleeping for 60 seconds
+current time is: 22:07
+There are no command to trigger for current time: 22:07
+Main thread sleeping for 60 seconds
+current time is: 22:08
+There are no command to trigger for current time: 22:08
+Main thread sleeping for 60 seconds
+current time is: 22:09
+There are no command to trigger for current time: 22:09
+Main thread sleeping for 59 seconds
+current time is: 22:10
+There are 2 commands to trigger
+Execute python /home/pi/weedle/gardener/main/weedleAdjustClimate.py
+Execute /home/pi/weedle/gardener/main/logs/sendmail.sh
+Main thread sleeping for 60 seconds
+current time is: 22:11
+There are no command to trigger for current time: 22:11
+Main thread sleeping for 60 seconds
+current time is: 22:12
+There are no command to trigger for current time: 22:12
+Main thread sleeping for 60 seconds
+current time is: 22:13
+There are no command to trigger for current time: 22:13
+Main thread sleeping for 60 seconds
+current time is: 22:14
+There are no command to trigger for current time: 22:14
+Main thread sleeping for 60 seconds
+current time is: 22:15
+There are 2 commands to trigger
+Execute python /home/pi/weedle/gardener/main/weedleAdjustClimate.py
+Execute /home/pi/weedle/gardener/main/logs/sendmail.sh
+Main thread sleeping for 60 seconds
+current time is: 22:16
+There are no command to trigger for current time: 22:16
+Main thread sleeping for 60 seconds
+current time is: 22:17
+There are no command to trigger for current time: 22:17
+Main thread sleeping for 60 seconds
+current time is: 22:18
+There are no command to trigger for current time: 22:18
+Main thread sleeping for 60 seconds
+current time is: 22:19
+There are no command to trigger for current time: 22:19
+Main thread sleeping for 60 seconds
+current time is: 22:20
+There are 2 commands to trigger
+Execute python /home/pi/weedle/gardener/main/weedleAdjustClimate.py
+Execute /home/pi/weedle/gardener/main/logs/sendmail.sh
+Main thread sleeping for 60 seconds
+current time is: 22:21
+There are no command to trigger for current time: 22:21
+Main thread sleeping for 60 seconds
+current time is: 22:22
+There are no command to trigger for current time: 22:22
+Main thread sleeping for 60 seconds
+current time is: 22:23
+There are no command to trigger for current time: 22:23
+Main thread sleeping for 60 seconds
+current time is: 22:24
+There are no command to trigger for current time: 22:24
+Main thread sleeping for 60 seconds
+current time is: 22:25
+There are 2 commands to trigger
+Execute python /home/pi/weedle/gardener/main/weedleAdjustClimate.py
+Execute /home/pi/weedle/gardener/main/logs/sendmail.sh
+Main thread sleeping for 60 seconds
+current time is: 22:26
+There are no command to trigger for current time: 22:26
+Main thread sleeping for 60 seconds
+current time is: 22:27
+There are no command to trigger for current time: 22:27
+Main thread sleeping for 60 seconds
+current time is: 22:28
+There are no command to trigger for current time: 22:28
+Main thread sleeping for 59 seconds
+current time is: 22:29
+There are no command to trigger for current time: 22:29
+Main thread sleeping for 60 seconds
+current time is: 22:30
+There ar#######################################
+#### IN WEEDLE ADJUSTMENT CLIMATE  ####
+#######################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+##############################################
+#### STARTING WEEDLE ADJUSTMENT CLIMATE  ####
+##############################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WTemperature:30
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumidityAir:80
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WHumiditySoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WCO2:900
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle WLuminosity:255
+####################################
+######   WEEDLE CLIMATE HIGH  ######
+####################################
+## WTemperature = 30
+## WHumidityAir = 80
+## WHumiditySoil = 1
+## WCO2 = 900
+## WLuminosity = 255
+####################################
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wtemperature:20
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumidity:50
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Whumiditysoil:1
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wco2:380
+ == IN READ WEEDLE CLIMATE  == 
+/home/pi/weedle/gardener/main/config/weedleClimateNight.config
+##  Read Weedle Wluminosity:0
+####################################
+######    WEEDLE CLIMATE LOW  ######
+####################################
+##  Wtemperature = 20
+##  Whumidityair = 50
+##  Whumiditysoil = 1
+##  Wco2 = 380
+##  Wluminosity = 0
+####################################
+== IN READ AIR TEMPERATURE IN THE BOX == 
+## temperature:27.9 C  humidity : 44 %
+== IN READ AIR HUMIDITY IN THE BOX == 
+== IN READ SOIL HUMIDITY 40 IN THE BOX == 
+== IN READ SOIL HUMIDITY 55 IN THE BOX == 
+== IN READ SOIL HUMIDITY 70 IN THE BOX == 
+== IN READ SOIL HUMIDITY 85 IN THE BOX == 
+== IN READ LUMINOSITY IN THE BOX == 
+## luminosity = 255
+== IN READ AIR HUMIDITY IN THE BOX == 
+##  temperature:27.7 C  humidity : 45 %
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED AIR HUMIDITY ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 ONCE
+\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/
+##### ALERT FAILED CO2 TWICE - SET WEEDLE CLIMATE DEFAULT  - NO RUN CO2
+\/\/\/\/\/\/\/\/
+####################################
+####     IN THE BOX CLIMATE     ###
+####################################
+## airTemperature = 27
+## airHumdity = 45
+## soilHumdity40 = 0
+## soilHumdity55 = 0
+## soilHumdity70 = 0
+## soilHumdity85 = 0
+## soilHumdity = 0
+## luminosity = 255
+## co2 = 380
+####################################
+#######  ADJUSTMENT ACTIONS  #######
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT TEMPERATURE STARTING  ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+###################################################
+####  WEEDLE ADJUSTMENT TEMPERATURE COMPLETED ####
+###################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT AIR HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+///////////////////////////////
+=====    AIR TOO DRY   =======
+///////////////////////////////
+=====    INCREASE OF  +++ 5
+////////////////////////////
+------------------------
+= IN INCREASE AIR HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAWater:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HAAir:3
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HASun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 0
+==  air = 3
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 0
+## Turn ON WATER for: 0
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 15
+## Turn ON AIR for: 15
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+#################################################
+####  WEEDLE ADJUSTMENT AIR HUMIDITY COMPLETED #####
+#################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+////////////////////////////
+=====    TOO DRY   =======
+////////////////////////////
+=====    INCREASE OF  +++ 1
+////////////////////////////
+------------------------
+= IN INCREASE HUMDITY
+------------------------
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSWater:10
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSAir:0
+ == IN READ WEEDLE ADJUSTMENT == 
+##  Read Weedle HSSun:0
+============================
+===  GARDENER TO EXECUTE ===
+============================
+==  water = 10
+==  air = 0
+==  sun = 0
+============================
+---
+###  Caculated WATER in Sec: 10
+## Turn ON WATER for: 10
+##### IN WATER ON ####
+Water ON...
+## Turn OFF WATER
+##### IN WATER OFF ####
+Water OFF...
+---
+---
+###  Caculated AIR in Sec: 0
+## Turn ON AIR for: 0
+##### IN AIR ON ####
+Air ON...
+## Turn OFF AIR
+##### IN AIR OFF ####
+Air OFF...
+---
+---
+###  Caculated SUN (hot Air) in Sec: 0
+##  Turn ON SUN - HOT AIR for: 0
+##### IN SUN ON ####
+Hot Air ON...
+##  Turn OFF SUN - HOT AIR
+##### IN SUN OFF ####
+Hot Air OFF...
+---
+######################################################
+####  WEEDLE ADJUSTMENT SOIL HUMIDITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT LUMINOSITY STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT LUMINOSITY COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+####  WEEDLE ADJUSTMENT CO2 STARTING     ####
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+######################################################
+####  WEEDLE ADJUSTMENT CO2 COMPLETED #####
+######################################################
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+################################################
+####  WEEDLE ADJUSTMENT CLIMATE COMPLETED #####
+################################################
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
+\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==\/\/<3==  
